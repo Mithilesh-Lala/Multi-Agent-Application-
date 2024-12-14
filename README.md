@@ -1,4 +1,4 @@
-# Multi-Agent-Application-
+# Multi-Agent LLM Application
 
 > Harness the power of collaborative AI agents for enhanced content creation and analysis
 
